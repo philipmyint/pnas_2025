@@ -6,4 +6,4 @@ Lorin X. Benedict, to appear in Proceedings of the National Academy of Sciences,
 
 Plotting scripts were created with Python 3.12 and use the packages matplotlib, numpy, scipy, and pandas. LaTeX is also assumed to be installed to render the figure and legend labels. 
 
-Corresponding author: Jonathan L. Belof, belof1@llnl.gov
+Corresponding author: Lorin X. Benedict, benedict5@llnl.gov
